@@ -630,7 +630,7 @@ amounts; we created a **Risk Tiering Framework** based on the
 
 -   **Critical Risk:** ≥ 10\
 
-![Loan Risk Tier Logic](images/Loan%20Risk%20Tier%20Logic.png) <br>
+![Loan Risk Tier Logic](images/Loan%20Risk%20tier%20logic.png) <br>
 
 **Embedding this logic into the SQL views, allowing analysts to
 immediately identify High and Critical Risk borrowers based on the
