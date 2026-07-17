@@ -628,7 +628,7 @@ amounts; we created a **Risk Tiering Framework** based on the
 
 -   **High Risk:** 5 to \< 10
 
--   **Critical Risk:** ≥ 10\
+-   **Critical Risk:** ≥ 10
 
 ![Loan Risk Tier Logic](images/Loan%20Risk%20tier%20logic.png) <br>
 
